@@ -102,7 +102,7 @@ function renderPrice() {
   // Iteration 4: change the HTML of `<aside class="panel price">`
   //display list of selected items
   //Display total price
-  let sum = 
+  let sum;
   let price = document.querySelector('.panel strong').innerHTML.slice(1);
 }
 
